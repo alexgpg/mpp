@@ -15,6 +15,8 @@
 
 #### C++ memory model
 
+* [Mark Batty. The C11 and C++11 Concurrency Model](http://www.cl.cam.ac.uk/~mjb220/battythesis.pdf)
+
 * Video [The C++ Memory Model - Valentin Ziegler @ Meeting C++ 2014](http://www.youtube.com/watch?v=gpsz8sc6mNU)
   [slides](https://meetingcpp.com/tl_files/2014/talks/C++%20Memory%20Model%20-%20Meeting%20C++%202014%20-%20Valentin%20Ziegler.pdf)
 
