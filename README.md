@@ -24,9 +24,26 @@
   [slides](http://www.slideshare.net/yandex/memory-modelc) C++, memory barriers, memory model
 
 
+#### x86 memory model
+
+* A better x86 memory model: x86-TSO
+
+* x86-TSO: A rigorous and usable programmer’s model for x86 multiprocessors.
+
 ### Sequential consistency
 
 * Leslie Lamport. How to make a multiprocessor computer
 that correctly executes multiprocess programs.
 IEEE Transactions on Computers, 28(9):690–691,
 September 1979. [Link](http://news.cs.nyu.edu/~jinyang/fa09/papers/lamport-consistency.pdf)
+
+
+## Glossary
+
+TSO - Total store ordering
+
+### Sync primitives
+
+#### Spinlock
+
+https://www.kernel.org/doc/Documentation/locking/spinlocks.txt
